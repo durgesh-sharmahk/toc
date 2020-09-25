@@ -1,0 +1,2 @@
+s = input("Enter the String: ")
+print("No. of Token: ",len(s))
